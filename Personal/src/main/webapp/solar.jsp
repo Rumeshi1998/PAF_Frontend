@@ -144,7 +144,7 @@ $(document).ready(function () {
                 "solar_panel" : $('#solar_panel').val()
             });
         	
-        	console.log(fromData);//Display inserted data on the console
+        	console.log(fromData);Display inserted data on the console
 
             $.ajax({
                 type: "POST",
