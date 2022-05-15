@@ -4,14 +4,14 @@
 	<meta charset="UTF-8">
 	<title>Solar Request Details</title>
 	
-	<!-- Import Js file and Jquery files -->
+    <!-- Import Js file, CSS and Jquery files -->
+    <link rel="stylesheet" href="Views/bootstrap.min.css">
     <script src="assets/js/croppie.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.0/jquery.validate.js"></script>
 	
 </head>
-<body>
-<center>	
+<body>	
 
     <div class="container">
 		
@@ -94,7 +94,6 @@
 	        </div>
 	  </form>
 	</div>
-</center>
 </body>
 </html>
 
