@@ -36,7 +36,7 @@ CREATE TABLE `personal` (
   `phone` varchar(250) NOT NULL,
   `email` varchar(250) NOT NULL,
   `area` varchar(250) NOT NULL,
-  `service_center` varchar(250) NOT NULL,
+  `quantity` int(250) NOT NULL,
   `solar_panel` varchar(250) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
