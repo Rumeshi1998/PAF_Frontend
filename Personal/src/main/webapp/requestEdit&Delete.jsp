@@ -5,6 +5,7 @@
 	<title>Request List</title>
 	
     <!-- Import Js file and Jquery files -->
+	//import files
     <script src="assets/js/croppie.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.0/jquery.validate.js"></script>
